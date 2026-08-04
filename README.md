@@ -1,2 +1,0 @@
-# SCIC-Eligibility-Tracker
-
